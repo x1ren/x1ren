@@ -3,7 +3,10 @@
 
  I'm a Computer Science Student at Cebu Institute of Technology-University
 
-
+🌱 I’m currently learning:
+- Flask for backend development  
+- Python and Pandas for data science and machine learning  
+- Core concepts of machine learning and data visualization
 
  💻 Languages and Tools:
 
@@ -18,4 +21,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </p>
+🤝 Let's Connect:
+- [📧 Email](mailto:iben.anoos@gmail.com)  
+- 💼 LinkedIn: https://www.linkedin.com/in/iben-anoos-0a3b9b357/
+
+![Ronnie Coleman Lifting](https://media.giphy.com/media/3o7TKsQfYlXz6/giphy.gif)
 
