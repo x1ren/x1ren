@@ -23,7 +23,7 @@
 </p>
 🤝 Let's Connect:
 - [📧 Email](mailto:iben.anoos@gmail.com)  
-- 💼 LinkedIn: https://www.linkedin.com/in/iben-anoos-0a3b9b357/
+- 💼 [LinkedIn](https://www.linkedin.com/in/iben-anoos-0a3b9b357/)
 
-![Ronnie Coleman Lifting](https://media.giphy.com/media/3o7TKsQfYlXz6/giphy.gif)
+![Ronnie Coleman Yeah Buddy](https://media.tenor.com/images/13490358335738779484.gif)
 
