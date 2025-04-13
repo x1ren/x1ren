@@ -21,9 +21,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </p>
-🤝 Let's Connect:
-- [📧 Email](mailto:iben.anoos@gmail.com)  
+### 🤝 Let's Connect:
+- [📧 Email](iben.anoos@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/iben-anoos-0a3b9b357/)
 
-![Ronnie Coleman Yeah Buddy](https://media.tenor.com/images/13490358335738779484.gif)
+![Ronnie Coleman Yeah Buddy](https://media1.tenor.com/m/uzdhbm5wl1wAAAAd/ronnie-coleman-yeah-buddy.gif)
+
+
 
