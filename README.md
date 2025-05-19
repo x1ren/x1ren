@@ -26,7 +26,7 @@ I'm a Computer Science Student at Cebu Institute of Technology-University
 
 ### 🤝 Let's Connect:
 - [📧 Email](mailto:iben.anoos@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/iben-anoos-0a3b9b357/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/iben-anoos-53a3a1361/)
 
 <hr>
 
