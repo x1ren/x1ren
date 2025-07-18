@@ -1,6 +1,6 @@
 Hi there! I'm Iben👋
 
-I'm a Information Technology Student at Cebu Institute of Technology-University
+I'm an Information Technology Student at Cebu Institute of Technology-University
 
 🌱 I’m currently learning:
 - Flask for backend development  
