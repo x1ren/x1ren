@@ -38,4 +38,4 @@ I'm an Information Technology Student at Cebu Institute of Technology-University
 
 <hr>
 
-![Ronnie Coleman Yeah Buddy](https://media1.tenor.com/m/uzdhbm5wl1wAAAAd/ronnie-coleman-yeah-buddy.gif)
+![Funny GIF](https://media.tenor.com/atjTwQqebx8AAAAC/dog-smile.gif)
