@@ -38,4 +38,4 @@ I'm an Information Technology Student at Cebu Institute of Technology-University
 
 <hr>
 
-![Funny GIF](https://media.tenor.com/atjTwQqebx8AAAAC/dog-smile.gif)
+![Dog Smile](https://media.tenor.com/bKqjN.gif)
