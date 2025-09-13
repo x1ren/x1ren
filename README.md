@@ -38,4 +38,5 @@ I'm an Information Technology Student at Cebu Institute of Technology-University
 
 <hr>
 
-![Dog Smile](https://media.tenor.com/bKqjN.gif)
+![Daredevil Smirk](https://media.tenor.com/uoP6nM3kAHcAAAAC/daredevil-smirk-charlie-cox.gif)
+
